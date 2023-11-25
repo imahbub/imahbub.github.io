@@ -1,9 +1,3 @@
----
-title: "Mahbub Hasan"
-description: "Hi, I am Mahbub Hasan, a designer and UX engineer who loves to build UI, UX and design stuff"
-image: mahbub.png
----
-
 ## About me
 
 - 👋 Hi, I’m @imahbub
