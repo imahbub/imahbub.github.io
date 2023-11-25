@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+---
+title: "Mahbub Hasan"
+description: "Hi, I am Mahbub Hasan, a designer and UX engineer who loves to build UI, UX and design stuff"
+image: mahbub.png
+---
 
-You can use the [editor on GitHub](https://github.com/imahbub/imahbub.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## About me
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- 👋 Hi, I’m @imahbub
+- 👀 I’m interested in Linux, Docker and other FOSS projects
+- 🌱 I’m currently learning Docker, JS, Ruby
+- 📫 Email me - mail@imahbub.com 
+- 🌐 My homepage https://imahbub.com
 
-### Markdown
+## My GitHub projects
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/imahbub/imahbub.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out
+1. [Evil Apple Wiki](https://github.com/imahbub/evilapple) - A collaborative wiki that lists top anti-consumer giants
+2. [BD Blockade](https://the-penguins-club.github.io/bd-blockade/) - A blockade tracker from crowdsourced information for Bangladesh
