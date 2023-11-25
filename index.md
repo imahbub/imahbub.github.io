@@ -9,8 +9,8 @@ image: mahbub.png
 - 👋 Hi, I’m @imahbub
 - 👀 I’m interested in Linux, Docker and other FOSS projects
 - 🌱 I’m currently learning Docker, JS, Ruby
-- 📫 Email me - mail@imahbub.com 
-- 🌐 My homepage https://imahbub.com
+- 📫 Email me - [mail@imahbub.com](mailto:mail@imahbub.com)
+- 🌐 My homepage [https://imahbub.com](https://imahbub.com)
 
 ## My GitHub projects
 
