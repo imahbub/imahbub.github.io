@@ -3,6 +3,12 @@ title: "Mahbub Hasan"
 description: "Hi, I am Mahbub Hasan, a designer and UX engineer who loves to build UI, UX and design stuff"
 image: mahbub.png
 ---
+## Status
+
+### My current retro playlist
+
+| ![](/assets/poke-fr-gba.jpg)  | ![](/assets/poke-em-gba.jpg)  | ![](/assets/zelda-mc-gba.webp)  | ![](/assets/dbz-log-gba.jpg)  |
+|---|---|---|---|
 
 ## About me
 
