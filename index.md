@@ -8,7 +8,7 @@ image: mahbub.png
 ### My current retro playlist
 
 
-|                                              |                                             |                                                           |                                                             |
+| #1                                           | #2                                          | #3                                                        | #4                                                          |
 | ---------------------------------------------- | --------------------------------------------- | ----------------------------------------------------------- | ------------------------------------------------------------- |
 | ![Pokemon Fire Red](/assets/poke-fr-gba.jpg) | ![Pokemon Emerald](/assets/poke-em-gba.jpg) | ![Legends of Zelda Minish Cap](/assets/zelda-mc-gba.webp) | ![Dragon Ball Z - Legends of Goku](/assets/dbz-log-gba.jpg) |
 | GBA                                          | GBA                                         | GBA                                                       | GBA                                                         |
